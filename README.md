@@ -10,15 +10,15 @@ NeoBIM-Assignment/
 │
 ├── README.md
 │
-├── Q1_Load-Bearing Wall.html
+├── Q1_Load-Bearing Wall.pdf
 │
-├── Q2_Pipeline_Process.html
+├── Q2_Pipeline_Process.pdf
 ├── Q2_Pipeline_Process.ipynb
 ├── Q2_simpler_Pipeline_Process.ipynb
-├── Q2_simpler_Pipeline_Process.html
+├── Q2_simpler_Pipeline_Process.pdf
 ├── README_Q2.md
 │
-├── Q3_GWP_Studio_eLCA(5).html
+├── Q3_GWP_Studio_eLCA(5).pdf
 ├── eLCA(5).pdf
 ```
 
@@ -163,7 +163,7 @@ The pipeline generates:
 Detailed documentation for the pipeline is available in:
 
 - `README_Q2.md`
-- `Q2_Pipeline_Process.html`
+- `Q2_Pipeline_Process.pdf`
 
 This includes:
 
@@ -248,7 +248,7 @@ This assessment demonstrates how:
 - Jupyter Notebook
 - Claude API
 - REST APIs
-- HTML/PDF reporting
+- pdf/PDF reporting
 
 ---
 
