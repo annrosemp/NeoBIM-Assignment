@@ -18,8 +18,8 @@ NeoBIM-Assignment/
 ├── Q2_simpler_Pipeline_Process.pdf
 ├── README_Q2.md
 │
-├── Q3_GWP_Studio_eLCA(5).pdf
-├── eLCA(5).pdf
+├── Q3_GWP_Studio_eLCA.pdf
+├── eLCA.pdf
 ```
 
 ---
